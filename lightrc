@@ -1,0 +1,11 @@
+{
+    "port": 8000,
+    "serve": ".",
+    "quiet": 1,
+    "watchexps": [
+    "index.html ",
+    "./styles/*.css ",
+    "./scripts/*.js"
+    ]
+
+}
